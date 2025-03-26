@@ -1,0 +1,5 @@
+- Créé un nouveau dossier
+- télécharge les deux fichiers (style.css et index.html)
+- Place les dans ton nouveau dossier
+- Ouvre le fichier "index.html" ||
+- ⚠ Tu dois deja être connecter sur frischool.
