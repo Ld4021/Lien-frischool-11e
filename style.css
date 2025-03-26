@@ -1,0 +1,100 @@
+.btn {
+    width: 175px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #191deb; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+}
+button:hover {
+    transform: scale(1.1); /* Le bouton grandit légèrement */
+    background: #004e34;
+} /*#03019e*/
+body {
+    background-color: #009e69; /* Couleur de fond*/
+}
+
+.titre {
+    font-size: 60px; /* Taille fixe en pixels */
+    text-align: center; /* Centre le texte horizontalement */
+}
+
+.sous_titre {
+    font-size: 20px; /* Taille fixe en pixels */
+}
+
+hr {
+    border: 0; /* Enlève la bordure par défaut */
+    border-top: 4px solid #000000;
+}
+
+.btn_math {
+    width: 175px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #f0d804; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+}
+.btn_all {
+    width: 175px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #19eb46; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+}
+.btn_fr {
+    width: 175px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #e40000; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+}
+.btn_sn {
+    width: 175px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #6800c9; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+}
+.btn_hg {
+    width: 175px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #9e683c; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+}
+.btn_sn6 {
+    width: 250px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #6800c9; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+    margin-top: 1px; /* Ajustez la valeur selon le besoin */
+}
