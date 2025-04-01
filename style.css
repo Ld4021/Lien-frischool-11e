@@ -98,3 +98,47 @@ hr {
     margin: 2px; /* Ajoute un espace autour de chaque bouton */
     margin-top: 1px; /* Ajustez la valeur selon le besoin */
 }
+.k_q {
+    width: 175px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #001aff; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+}
+.teams{
+    width: 175px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #7001d8; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+}
+.chatgpt {
+    width: 175px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #464646; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+}
+.res_mat {
+    width: 175px;
+    height: 50px;
+    font-size: 18px; /* Taille du texte à l'intérieur */
+    border-radius: 6px; /* Bords arrondis */
+    border: none; /* Pas de bordure */
+    background-color: #f0d804; /* Couleur du fond */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    margin: 2px; /* Ajoute un espace autour de chaque bouton */
+}
